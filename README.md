@@ -2,7 +2,7 @@
 ### Ссылки на Google Colab
 Часть 1: https://colab.research.google.com/drive/1vVbno2j7cCRvhgPoGpx-z2UG0rQiCyyh?usp=sharing
 
-Часть 2 :
+Часть 2 : https://colab.research.google.com/drive/1RknGJI78YXMKQhFj4V3fh4UQkhcSeFq-?usp=sharing
 
 Статистика:
 
